@@ -28,3 +28,6 @@ console.log(Bike.Counter())
 
 var Bike3 = new Bike()
 console.log(Bike.Counter())
+
+var Bike7 = new Bike()
+console.log(Bike.Counter())
